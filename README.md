@@ -59,7 +59,7 @@ Scripts Available
 
   ## 👤 Author
 
-**Your Full Name**
+**Vikas Thakur**  
 - 🌐 Website: [Thefrustraedhacker](https://www.thefrustratedhacker.in/)
 - 🐙 GitHub: [@vikax0thakurinfosec](https://github.com/vikax0thakurinfosec)
   
